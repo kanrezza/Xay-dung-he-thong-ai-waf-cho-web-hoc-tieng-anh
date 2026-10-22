@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+ml/model.joblib
+ml/dataset.csv
+# Nhật ký WAF (SQLite + file WAL/SHM), sinh ra khi chạy, không đưa lên GitHub
+data/
+# Cấu hình riêng trên máy (mật khẩu dashboard), không đưa lên GitHub
+.env
